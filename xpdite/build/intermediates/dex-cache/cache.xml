@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Myedit\xpdite\app\libs\ksoap2-android-assembly-2.5.8-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6e6d14301616c866b7eff210ece6579299417ec">
+        <dex dex="D:\Myedit\xpdite\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.5.8-jar-with-dependencies_562468273af6ea307c9c0be8e6d8ca6ce668d496.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shiv\.android\build-cache\c6a5bbd8856c0e424d9ca6341324d347b9d0c393\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Myedit\xpdite\app\build\intermediates\pre-dexed\debug\classes_726d011c6f6ca95b02b705c45db4e537181ec801.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shiv\.android\build-cache\585ac787866f891a72733eff19b565c35f9bea21\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Myedit\xpdite\app\build\intermediates\pre-dexed\debug\classes_40c0f3fcd4dbcd2c6e55ce9921fb55f585d02d53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shiv\.android\build-cache\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Myedit\xpdite\app\build\intermediates\pre-dexed\debug\classes_9f33e57994770171f5beab47dd33caa0ec7a60f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shiv\.android\build-cache\49030b37f6370da0fcd5481e09a3edf1c99ed36d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Myedit\xpdite\app\build\intermediates\pre-dexed\debug\classes_db0ec5cda424d2354fd753de63e896ebab2741aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shiv\.android\build-cache\1cc6cb301c6063eeec514b34956717d745ac8d27\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Myedit\xpdite\app\build\intermediates\pre-dexed\debug\classes_6c2e31803d0b4adf26a09ee3aba11c7361770be0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shiv\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Shiv\Desktop\xpdite\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_d193441ec6d2fea7f994fc95119c3b3e6e58f1bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shiv\.android\build-cache\f5bd883f435161d46e34dc7497b109e4dc620f1a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Myedit\xpdite\app\build\intermediates\pre-dexed\debug\classes_6608c534b25487708bbe660481bb72b7246b4464.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shiv\.android\build-cache\7313aa6bd841a91181a02ff3c81b2d98d06634b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Myedit\xpdite\app\build\intermediates\pre-dexed\debug\classes_16c3a4c95b2867690b28c9810db25976c8e31d86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shiv\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Shiv\Desktop\xpdite\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_489c295b9778c66100a90df1a23fbd0b1fc8de36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shiv\.android\build-cache\b42d908de1ceaafbc85801a23973f487fc41e471\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Myedit\xpdite\app\build\intermediates\pre-dexed\debug\classes_ada14dd1115314c92b870565e3f0e2a5dd8f7011.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shiv\.android\build-cache\d136d6d849a2458004707bb89551b63ade2063be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Myedit\xpdite\app\build\intermediates\pre-dexed\debug\classes_a664b27cf8751428fa1c772af4b6611b17d6de61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shiv\.android\build-cache\7b25bff583828433ae8dd137f1048c8e3b358fc0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Myedit\xpdite\app\build\intermediates\pre-dexed\debug\classes_99285bc67dd96bd7483c501a57243d82af77ad5d.jar" />
+    </item>
+
+</items>

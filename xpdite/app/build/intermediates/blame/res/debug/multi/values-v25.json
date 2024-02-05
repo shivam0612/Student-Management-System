@@ -1,0 +1,172 @@
+[
+    {
+        "outputFile": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 70,
+                    "endOffset": 121
+                },
+                "from": {
+                    "file": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\values-v25\\values-v25.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 70,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 126,
+                    "endColumn": 82,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\values-v25\\values-v25.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 82,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 303
+                },
+                "from": {
+                    "file": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\values-v25\\values-v25.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 308,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 414
+                },
+                "from": {
+                    "file": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\values-v25\\values-v25.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 308,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 414
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 70,
+                    "endOffset": 121
+                },
+                "from": {
+                    "file": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\values-v25\\values-v25.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 70,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 126,
+                    "endColumn": 82,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\values-v25\\values-v25.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 82,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 303
+                },
+                "from": {
+                    "file": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\values-v25\\values-v25.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 308,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 414
+                },
+                "from": {
+                    "file": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\values-v25\\values-v25.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 308,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 414
+                    }
+                }
+            }
+        ]
+    }
+]

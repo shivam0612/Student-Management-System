@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.expediteapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="20" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:icon="@drawable/explogo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.expediteapp.FileExplore"
+            android:label="@string/app_name"
+            android:launchMode="singleTask" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.expediteapp.ListActivity"
+            android:label="@string/title_activity_list"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.expediteapp.ItemListActivity"
+            android:label="@string/title_activity_item_list"
+            android:launchMode="singleTask" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.expediteapp.SplashScreen"
+            android:label="@string/app_name"
+            android:launchMode="singleTask" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.expediteapp.RegisterMobile"
+            android:label="@string/title_activity_register_mobile"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.expediteapp.StudInfo"
+            android:label="@string/title_activity_stud_info"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.expediteapp.StudInfoItem"
+            android:label="@string/title_activity_stud_info_item"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.expediteapp.Exams"
+            android:label="@string/title_activity_exams"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.expediteapp.Items"
+            android:label="@string/title_activity_exams_item"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.expediteapp.Settings"
+            android:label="@string/title_activity_settings"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.expediteapp.SettingsItem"
+            android:label="@string/title_activity_settings_item"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.expediteapp.ViewProfile"
+            android:label="@string/title_activity_view_profile"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.expediteapp.ViewResult"
+            android:label="@string/title_activity_view_result"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.expediteapp.Years"
+            android:label="@string/title_activity_years"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.expediteapp.YearsItem"
+            android:label="@string/title_activity_years_item"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.expediteapp.PhotoOptions"
+            android:label="@string/title_activity_photo_options"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.expediteapp.PhotoOptionItm"
+            android:label="@string/title_activity_photo_option_itm"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.expediteapp.UseCam"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/title_activity_use_cam"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.expediteapp.UseGallery"
+            android:label="@string/title_activity_use_gallery"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.expediteapp.LoginActivity"
+            android:label="@string/title_activity_login"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.expediteapp.UseMemory"
+            android:label="@string/title_activity_use_memory"
+            android:launchMode="singleTask" />
+        <activity android:name="com.expediteapp.Attendance" />
+        <activity android:name="com.expediteapp.Marks" />
+        <activity android:name="com.expediteapp.Handbook" />
+        <activity android:name="com.expediteapp.PastWeek" />
+        <activity android:name="com.expediteapp.Internal30marks" />
+        <activity android:name="com.expediteapp.Internal70Marks" />
+        <activity android:name="com.expediteapp.WeeklyAttendance" />
+        <activity android:name="com.expediteapp.FacultyDetails" />
+        <activity android:name="com.expediteapp.Timetable" />
+    </application>
+
+</manifest>

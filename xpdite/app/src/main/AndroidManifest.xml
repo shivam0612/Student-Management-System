@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.expediteapp"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="15" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:icon="@drawable/explogo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".FileExplore"
+            android:label="@string/app_name"
+            android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ListActivity"
+            android:label="@string/title_activity_list"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".ItemListActivity"
+            android:label="@string/title_activity_item_list"
+            android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SplashScreen"
+            android:label="@string/app_name"
+            android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".RegisterMobile"
+            android:label="@string/title_activity_register_mobile"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".StudInfo"
+            android:label="@string/title_activity_stud_info"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".StudInfoItem"
+            android:label="@string/title_activity_stud_info_item"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".Exams"
+            android:label="@string/title_activity_exams"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".Items"
+            android:label="@string/title_activity_exams_item"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".Settings"
+            android:label="@string/title_activity_settings"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".SettingsItem"
+            android:label="@string/title_activity_settings_item"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".ViewProfile"
+            android:label="@string/title_activity_view_profile"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".ViewResult"
+            android:label="@string/title_activity_view_result"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".Years"
+            android:label="@string/title_activity_years"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".YearsItem"
+            android:label="@string/title_activity_years_item"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".PhotoOptions"
+            android:label="@string/title_activity_photo_options"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".PhotoOptionItm"
+            android:label="@string/title_activity_photo_option_itm"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".UseCam"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/title_activity_use_cam"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".UseGallery"
+            android:label="@string/title_activity_use_gallery"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/title_activity_login"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".UseMemory"
+            android:label="@string/title_activity_use_memory"
+            android:launchMode="singleTask" />
+        <activity android:name=".Attendance" />
+        <activity android:name=".Marks" />
+        <activity android:name=".Handbook" />
+        <activity android:name=".PastWeek" />
+        <activity android:name=".Internal30marks" />
+        <activity android:name=".Internal70Marks" />
+        <activity android:name=".WeeklyAttendance" />
+        <activity android:name=".FacultyDetails" />
+        <activity android:name=".Timetable"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,666 @@
+[
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icobuttonpressed.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icobuttonpressed.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\explogo.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\explogo.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border2.xml",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\border2.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icobuttonpressed.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icobuttonpressed.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\information.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\information.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icoitem.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icoitem.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icosettings.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icosettings.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bullet_red.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\bullet_red.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listitm.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\listitm.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\directory_up.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\directory_up.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listbackground.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\listbackground.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btndown.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\btndown.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icolistitem.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icolistitem.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bullet_red.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\bullet_red.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\explogo.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\explogo.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\system_preferences.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\system_preferences.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icoexmas.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icoexmas.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnup.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\btnup.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header_gradient.xml",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\header_gradient.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icobutton.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icobutton.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\directory_up.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\directory_up.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_back.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\orange_back.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icoprofile.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icoprofile.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icoupdatepin.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icoupdatepin.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_sureng.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\logo_sureng.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bullet_blue.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\bullet_blue.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icoitem.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icoitem.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icomemory.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icomemory.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bullet_black.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\bullet_black.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icosettings.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icosettings.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icoprofile.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icoprofile.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\system_config_boot.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\system_config_boot.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\get_info.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\get_info.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icoupdatepic.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icoupdatepic.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\directory_icon.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\directory_icon.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\system_preferences.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\system_preferences.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icomemory.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icomemory.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ball_enemy.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\ball_enemy.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\get_info.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\get_info.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icobutton.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icobutton.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icoupdatepin.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icoupdatepin.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icoinfo.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icoinfo.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\directory_icon.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\directory_icon.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icolistitem.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icolistitem.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\information.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\information.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vayunaheader.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\vayunaheader.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btndwn.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\btndwn.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listitmdwn.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\listitmdwn.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\taskbar_start_menu.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\taskbar_start_menu.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listitm.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\listitm.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icoinfo.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icoinfo.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_sureng.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\logo_sureng.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icoexmas.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icoexmas.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btndown.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\btndown.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\file_icon.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\file_icon.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bullet_black.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\bullet_black.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border2.xml",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\border2.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icocamera.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icocamera.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listitmdwn.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\listitmdwn.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header_gradient.xml",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\header_gradient.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\forward.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\forward.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnup.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\btnup.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listbackground.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\listbackground.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icocamera.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icocamera.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\taskbar_start_menu.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\taskbar_start_menu.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\system_config_boot.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\system_config_boot.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listbackgroundtwo.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\listbackgroundtwo.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btndwn.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\btndwn.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_back.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\orange_back.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\forward.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\forward.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listbackgroundtwo.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\listbackgroundtwo.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bullet_blue.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\bullet_blue.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icoupdatepic.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\icoupdatepic.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ball_enemy.png",
+        "source": "D:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\ball_enemy.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vayunaheader.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\vayunaheader.png"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\file_icon.png",
+        "source": "F:\\Myedit\\xpdite\\app\\src\\main\\res\\drawable\\file_icon.png"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    }
+]

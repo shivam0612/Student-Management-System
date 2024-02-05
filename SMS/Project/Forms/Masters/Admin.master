@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Forms/Masters/Site.master" AutoEventWireup="true" CodeFile="Admin.master.cs" Inherits="Forms_Masters_Admin" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="SiteHead" runat="Server">
+
+    <asp:ContentPlaceHolder ID="AdminHead" runat="server">
+
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="SiteBody" runat="Server">
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">SMS</a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">Home</a></li>
+                    <li><a href="/Forms/Admin/Student/Default.aspx">Student</a></li>
+                    <li><a href="/Forms/Admin/Faculty/Default.aspx">Faculty</a></li>
+                    <li><a href="/Forms/Faculty/checkattendance.aspx">Monthly Attendance</a></li>
+                    <li><a href="/Forms/Admin/Handbook.aspx">HandBook</a></li>
+
+
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+
+                    <li><a href="/Forms/Visitor/Login.aspx"><span class="glyphicon glyphicon-log-out"></span>Logout</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <asp:contentplaceholder id="AdminBody" runat="server"></asp:contentplaceholder>
+
+</asp:Content>
+

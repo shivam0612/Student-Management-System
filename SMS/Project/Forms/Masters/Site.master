@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="Forms_Masters_Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <link href="/App_Themes/Theme/StyleSheet.css" rel="stylesheet" />
+    <link href="/BootStrap/css/bootstrap.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="SiteHead" runat="server">
+
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="container">
+        <div class="well" style="margin-top: 50px; box-shadow: 3px 2px 25px black;">
+            <div class="row">
+                <div class="col-md-3">
+                    <img src="/Images/Logo.png" alt="Logo" height="100"
+                        width="200"  />
+                </div>
+                <div class="col-md-7">
+                    <div style="text-shadow: 3px 3px lightgrey; font-size: 45px;font-weight:600;font-style:normal">Student Management System</div>
+                    <p class="lead" style="font-family: 'Copperplate Gothic Bold'; font-size: 25px; color: red;">
+                        Just Do It
+                    </p>
+                </div>
+            </div>
+        </div>
+        <form id="form1" runat="server">
+            <div>
+                <asp:ContentPlaceHolder ID="SiteBody" runat="server">
+                
+                </asp:ContentPlaceHolder>
+            </div>
+        </form>
+    </div>
+    <!------------------------------------------------------------------------------>
+    <div id="Spacer" style="margin:100px;"></div>
+    <div id="footer" class="navbar-inverse navbar-fixed-bottom">
+        &copy; Student Name : Developed in partial fullfillment to the degree of "Degree name".
+    </div>
+    <script src="/Scripts/jquery-3.1.1.js"></script>
+    <script src="/BootStrap/js/bootstrap.js"></script>
+</body>
+</html>

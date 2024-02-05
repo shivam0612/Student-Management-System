@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\3da8017b6b0521878ce65928e9723b6d7ce1a5a6\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\Myedit\\xpdite\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Shiv\\.android\\build-cache\\4b86842d590faa2c3de3e07a099aecb45241528e\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

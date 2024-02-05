@@ -1,0 +1,6 @@
+﻿<asp:TextBox runat="server" CssClass="form-control" Font-Size="20px" SkinId="txt"></asp:TextBox>
+<asp:Label runat="server" Font-Size="20px" SkinId="lbl"></asp:Label>
+<asp:Button runat="server" CssClass="btn btn-info"   Font-Size="25px" style="border-radius:10px;" SkinId="btn" width="200px"/>
+<asp:LinkButton  runat="server"   Font-Size="25px" SkinId="linkbtn" />
+<asp:RadioButton  runat="server"   Font-Size="50px" SkinId="linkbtn" />
+            
